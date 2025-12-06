@@ -7,6 +7,7 @@ import ProjectDetail from './pages/ProjectDetail'
 import Contact from './pages/Contact'
 import NotFound from './pages/NotFound'
 import './App.css'
+import PropTypes from "prop-types";
 
 function App() {
   return (
