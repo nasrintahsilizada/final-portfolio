@@ -42,7 +42,7 @@ function About() {
 
           <div className="about-image">
             <img 
-               src="/public/nasrin.jpg"
+               src="/nasrin.jpg"
              
               alt="Nasrin Tahsilizada"
               className="about-image__img"
